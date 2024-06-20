@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505770952300",
+    "project_id": "pemob-ea408",
+    "storage_bucket": "pemob-ea408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505770952300:android:7cedd7a2f43649876f3a49",
+        "android_client_info": {
+          "package_name": "com.example.adamfaiz_finalproject_sandi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYT2h5pr19dEx4JpvZ9zRUWbVBVGEaeS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
